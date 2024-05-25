@@ -1,0 +1,29 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    overflow: hidden;
+    margin: 0;
+}
+
+h1 {
+    font-size: 2cap;
+    margin-bottom: cm;
+    color: #a71c4a;
+}
+
+i {
+    font-size: 1rex
+    margin-bottom: 1rem;
+    color: #49243E;   c   
+}

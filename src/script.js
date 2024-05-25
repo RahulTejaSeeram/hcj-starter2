@@ -1,0 +1,1 @@
+console.log(`${Date()} :: This is my second starter template for a simple web app.`);
