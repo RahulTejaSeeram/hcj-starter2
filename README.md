@@ -1,2 +1,2 @@
 # hcj-starter2
-This is the starter Repository for all html, css, javascript projects 
+This is my second starter Repository for all html, css, javascript projects 
